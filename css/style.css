@@ -1,14 +1,24 @@
 body{
-    background-image: url(../img/diamond_upholstery_@2X.png);
+    background-image: url(../img/gun_metal_@2X.png);
 
 
 }
 
 h1{
-    color: rgb(44, 51, 53);
+    color: rgb(255, 198, 11);
     font-size: 50px;
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
+.btn{
+    background-color: rgb(255, 198, 11);
+    padding: 20px;   
+    color: rgb(44, 42, 42);
+    font-size: 20px;
 
+}
+.main{ 
+    background-image: url(../img/wood_pattern_@2X.png);
+    height: 1000px; width: 2000px;
+}
